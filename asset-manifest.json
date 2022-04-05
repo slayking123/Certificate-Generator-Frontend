@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Certificate-Generator-Frontend/static/css/main.d08e1ce5.css",
-    "main.js": "/Certificate-Generator-Frontend/static/js/main.7c74f78c.js",
+    "main.js": "/Certificate-Generator-Frontend/static/js/main.5f8ef387.js",
     "index.html": "/Certificate-Generator-Frontend/index.html",
     "main.d08e1ce5.css.map": "/Certificate-Generator-Frontend/static/css/main.d08e1ce5.css.map",
-    "main.7c74f78c.js.map": "/Certificate-Generator-Frontend/static/js/main.7c74f78c.js.map"
+    "main.5f8ef387.js.map": "/Certificate-Generator-Frontend/static/js/main.5f8ef387.js.map"
   },
   "entrypoints": [
     "static/css/main.d08e1ce5.css",
-    "static/js/main.7c74f78c.js"
+    "static/js/main.5f8ef387.js"
   ]
 }
