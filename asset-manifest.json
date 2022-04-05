@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Certificate-Generator-Frontend/static/css/main.d08e1ce5.css",
+    "main.js": "/Certificate-Generator-Frontend/static/js/main.7c74f78c.js",
+    "index.html": "/Certificate-Generator-Frontend/index.html",
+    "main.d08e1ce5.css.map": "/Certificate-Generator-Frontend/static/css/main.d08e1ce5.css.map",
+    "main.7c74f78c.js.map": "/Certificate-Generator-Frontend/static/js/main.7c74f78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08e1ce5.css",
+    "static/js/main.7c74f78c.js"
+  ]
+}
